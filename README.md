@@ -75,7 +75,7 @@ https://github.com/hariramgit/FLOWER-SPECIES-CLASSIFICATION/blob/master/iris_dat
 
 
 
-# RESULTSN and over OVERCOME:
+# RESULTS and OVERCOME:
 
 It is always the best practice to train the model using the complete dataset i.e. not to waste any part of the available data. Thus, the complete dataset was modelled using Decision Tree Classifier. Let us visualize the tree:
 
